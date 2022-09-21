@@ -31,3 +31,7 @@ package-lock.json
 
 build/
 dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
